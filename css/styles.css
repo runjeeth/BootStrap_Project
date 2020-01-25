@@ -4,7 +4,7 @@
 }
 .row-content{
     margin: 0px auto;
-    padding: 50px 0px 50px 50px;
+    padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height: 400px;
 }
@@ -15,9 +15,6 @@
     padding: 20px 0px;
 }
 
-main{
-    padding: 0px auto;
-}
 .jumbotron{
     padding: 70px 30px;
     margin: 0px auto;
